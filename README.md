@@ -1,1 +1,1 @@
-# 02-azure-functions
+# Lab 02 - Azure Functions
